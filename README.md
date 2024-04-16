@@ -1,9 +1,13 @@
 ### Fun Web App to keep you company 
 
 ## Actions
-Show a Meme
-Tell Me a Joke
+
+Meme
+
+Joke
+
 Random Quote
-Riddle me
+
+Riddles
 
 enjoy any time you feel bored 
