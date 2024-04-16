@@ -1,13 +1,13 @@
-### Fun Web App to keep you company 
+## Fun Web App to keep you company 
 
-## Actions
+### Actions
 
-Meme
+  Meme
 
-Joke
+  Joke
 
-Random Quote
+  Random Quote
 
-Riddles
+  Riddles
 
 enjoy any time you feel bored 
